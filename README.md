@@ -1,5 +1,6 @@
 # fork-harjoitus
 Tällä repositoriolla harjoitellaan forkkaamista
 
-## Lisää nimesi tämän otsikon all
-Niko Lempinen
+## Lisää nimesi tämän otsikon alle
+Niko
+Joonas
